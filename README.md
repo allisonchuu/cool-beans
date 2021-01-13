@@ -1,2 +1,2 @@
 # cool-beans
-awesome
+not awesome
